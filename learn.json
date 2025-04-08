@@ -1,7 +1,13 @@
 {
 	"slug" : "exercise-todo-list-react-context",
-	"title" : "Create a Todolist with Context.API and Flux",
-	"description": "Use Flux for the first time, learn how to organize you application in a centralized store and how to replicate changes and notify using the Context.API",
+	"title" : {
+		"us": "Create a Todolist with Context.API and Flux",
+		"es": "Crear una lista de tareas pendientes con Context.API y Flux"
+	},
+	"description" : {
+		"us":"Create a TODO list application in React using the Context API with a centralized store and action functions. It allows users to add and delete tasks, displaying a clean and dynamic layout. Ideal for practicing global state management and controlled components in React.",
+		"es":"Crea una aplicación de lista de tareas (TODO) en React usando Context API con un store centralizado y funciones de acción. Permite añadir y eliminar tareas, mostrando un diseño dinámico y limpio. Ideal para practicar estados globales y componentes controlados en React."
+    },
 	"status": "published",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
@@ -11,5 +17,8 @@
 	"technologies": ["react.js", "context api", "flux"],
     "projectType": "project",
 	"autoPlay": "false",
-	"talents": []
+	"talents": [],
+	"telemetry": {
+	    	"batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=326"
+	  }
 }
