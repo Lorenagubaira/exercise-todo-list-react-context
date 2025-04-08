@@ -8,7 +8,7 @@
 
 Crea una aplicación de un `TODO list` (lista de cosas por hacer) que le permita a los usuarios agregar y eliminar `tasks` (tareas), pero utilizando la API de contexto con un `store` (almacenamiento) centralizado y funciones de acción.
 
-<onlyfor saas="false" withBanner="false">
+<how-to-start>
 
 ## 🌱  Cómo empezar este proyecto
 
@@ -24,7 +24,7 @@ $ git clone https://github.com/4GeeksAcademy/react-hello-webapp
 
 🔎 Importante: recuerda crear un nuevo repositorio, actualiza el URL remoto (`git remote set-url origin <your new url>`), y sube el código a tu nuevo repositorio utilizando `add` (añadir), `commit` (realizar) y `push` (expulsar).
 
-</onlyfor>
+</how-to-start>
 
 ## 📝 Instrucciones:
 
